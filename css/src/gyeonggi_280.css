@@ -1,0 +1,42 @@
+/* ================================= 280 ================================= */
+@media screen and (min-width:280px) and (max-width:479px) {
+  #wrap{width:100%; min-width:280px;}
+  #headBox{height:450px;}
+  .logo{padding-top:7rem; margin:0 auto;}
+
+    .navBox{text-align:center;}
+    .navSub h2{margin-bottom:1.5rem; font-size:1.4rem;}
+    .navList{display:none;}
+
+  .snsBox{width:58px; margin:2.3rem auto;}
+ /* --------------------------------------------------------------------- */
+  .main_head{width:250px;}
+  .main_head h2{word-break:keep-all;}
+  .main_head>p{word-break:keep-all; font-size:1.2rem; margin-top:4.5rem;}
+  .circle{display:none;}
+    .main_02_btn{position:absolute; width:172px; height:37px; right:50%; top:65%;
+      transform:translate(50%, 50%); background-color:#333; border:5px solid #fff; border-radius:0.7rem;}
+    .main_02_btn>a{display:block; color:#fff; text-align:center; font-size:1.2rem; line-height:2.3rem;}
+  .sj_btn{display:none;}
+ /* --------------------------------------------------------------------- */
+  #artBox{display:none;}
+ /* --------------------------------------------------------------------- */
+  #asideBox{height:700px;}
+    video{display:none;}
+    .video_box{display:none;}
+    .aSubBox_02 dl{display:none;}
+    .ash_list{display:none;}
+    .asBox i{display:none;}
+    .as_logo{display:none;}
+
+    .ash_ul{width:180px; height:70px; font-size:1.8rem;}
+      
+    .asBox{width:200px; height:90px; margin:2rem auto;}
+    .aSubBox_01{margin-top:7rem;}
+      
+   /* --------------------------------------------------------------------- */
+  #footBox address{top:50%; font-size:0.7rem; line-height:0.85rem;}
+    .foot_logo{right:50%; transform:translate(50%, 50%);}
+    .foot_logo>p{display:none;}
+    .foot_02 p{font-size:0.55rem;}
+}

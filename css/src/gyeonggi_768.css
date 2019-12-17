@@ -1,0 +1,69 @@
+/* ================================= 768 ================================= */
+@media screen and (min-width:768px) and (max-width:1279px) {
+#headBox{height:262px;}
+  .logo{padding-top:7rem; margin:0 auto;}
+
+    .navSub{width:581px; margin:0 auto; padding-top:2rem; text-align:center;}
+    .navBox h2{float:left; margin-right:4rem; font-size:1.4rem;}
+    .nav_04 h2{margin-right:0;}
+    .navList{display:none;}
+
+  .snsBox{float:right; width:68px; margin-top:-12rem;}
+/* --------------------------------------------------------------------- */
+  .main_01{height:400px;}
+  .main_02_btn{display:none;}
+  .main_head{width:620px;}
+  .main_head>p{font-size:1.1rem; margin-top:0.9rem;}
+
+      .sj_btn{width:530px;}
+      .sj_btn>li{margin-left:35px;}
+      .sj_btn>li:nth-child(5),
+      .sj_btn>li:nth-child(6){display:none;}
+  #mainBox .main_btn{margin-top:13.5rem;}
+      .rbtn{width:25px; height:50px; margin-right:1.5rem;}
+      .lbtn{width:25px; height:50px; margin-left:1.5rem;}
+/* --------------------------------------------------------------------- */
+  #artBox{height:800px;}
+  #artBox .main_btn{margin-top:0.5rem;}
+    .bdline{width:193px; height:135px; margin:0.5rem;}
+    .arti{width:447px; margin:0 auto;}
+    .artimg{width:213px; height:155px;} 
+      .art_01{margin-top:5rem;}
+      .art_02{margin-top:22rem;}
+/* --------------------------------------------------------------------- */
+#asideBox{height:1750px;}
+  .asBox{width:500px; height:370px; margin:2rem auto;}
+  .aSubBox_01{margin-top:7rem;}
+  .ash_ul{width:480px; height:350px; font-size:1.55rem;}
+  .ash_list{font-size:0.95rem; margin:11rem 0.7rem;}
+
+  video{width:428px; height:241px; margin:5rem 2.1rem;}
+  .video_box{width:428px; margin:5rem 2.3rem;}
+  .video_box>p{line-height:2.6rem; font-size:0.8rem;}
+
+  .icon_01{margin:4.7rem 5.5rem;}
+  .icon_02{margin:6rem 3.5rem;}
+  .ash_list_2>li{margin:1rem 0.7rem;}
+
+  .aSubBox_02 dl{transform:translate(18%, 40%);}
+  .aSubBox_02 dl a{font-size:0.95rem;}
+
+  .asSub{width:500px; height:370px; margin:0 auto;}
+  .aSubBox_03{float:left; width:240px; margin-top:0;}
+  .aSubBox_04{float:right; width:240px; margin-top:0;}
+  .aSubBox_03 ul,
+  .aSubBox_04 ul{width:220px;}
+
+  .as_logo li:nth-child(1){width:192px; height:45px; margin:6rem 4rem;}
+  .as_logo li:nth-child(2){width:139px; height:49px; margin:6rem 18rem;}
+  .as_logo li:nth-child(3){width:303px; height:85px; margin:10rem 6rem;}
+  .as_logo li:nth-child(4){width:197px; height:46px; margin:17rem 4rem;}
+  .as_logo li:nth-child(5){width:114px; height:54px; margin:17rem 20rem;}
+
+/* --------------------------------------------------------------------- */
+#footBox{height:192px;}
+#footBox address{transform:translate(15%, 250%); font-size:0.85rem;}
+  .foot_logo{right:50%; transform:translate(50%, 50%);}
+  .foot_logo>p{display:none;}
+  .foot_02 p{font-size:0.8rem;}
+}

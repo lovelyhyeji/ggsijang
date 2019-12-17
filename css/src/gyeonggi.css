@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* gyeonggi.css */
+
+@import "../../css/src/gyeonggi_280.css";
+@import "../../css/src/gyeonggi_480.css";
+@import "../../css/src/gyeonggi_768.css";
+@import "../../css/src/gyeonggi_1280.css";
+@import "../../css/src/gyeonggi_1920.css";
+@import "../../css/src/gyeonggi_common.css";
